@@ -24,7 +24,7 @@ export default function Card() {
                             duration={3}
                             end={87}
                         />
-                        <span>Dev Web</span>
+                        <span className='area'>Dev Web</span>
                         </li>
                         <hr className='barreria' />
                         <li>
@@ -36,7 +36,7 @@ export default function Card() {
                             duration={3}
                             end={24}
                         />
-                        <span>Dev Game</span>
+                        <span className='area'>Dev Game</span>
                         </li>
                         <hr className='barreria' />
                         <li>
@@ -48,7 +48,7 @@ export default function Card() {
                             duration={3}
                             end={68}
                         />
-                        <span>M. 3D</span>
+                        <span className='area'>M. 3D</span>
                         </li>
                     </ul>
                     <ul className="list">
