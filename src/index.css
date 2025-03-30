@@ -247,6 +247,8 @@ svg{
 @media (max-width: 710px) {
   .card{
     flex-direction: column;
+    gap: 0;
+    
   }
   .division{
     height: 0;
