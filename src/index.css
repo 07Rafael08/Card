@@ -247,6 +247,7 @@ svg{
   .card{
     flex-direction: column;
     gap: 0;
+    padding: 30px 30px;
 
   }
   .division{
