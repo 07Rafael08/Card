@@ -252,5 +252,17 @@ svg{
     height: 0;
     width: 100%;
   }
+  .name{
+    font-size: 55px;
+  }
+  .title{
+    font-size: 17px;
+  }
+  .description{
+    text-align: center;
+  }
+  .texts{
+    width: 300px;
+  }
 }
 
